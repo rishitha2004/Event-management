@@ -1,0 +1,11 @@
+.heading{
+    position: absolute;
+    top: 45%;
+    left: 35%;
+}
+nav{
+    font-size: 25px;
+}
+nav a{
+    margin-right: 20px;
+}
